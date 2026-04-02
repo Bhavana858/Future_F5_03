@@ -56,7 +56,7 @@ This website helps the business in the following ways:
 ---
 
 ## 🙋‍♀️ Author
-Bhavana (Baani)  
+Bhavana  
 Engineering Student  
 
 ---
